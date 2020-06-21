@@ -1,0 +1,7 @@
+organization=mayank8805245507
+projectKey=mayank8805245507_userms
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8830
+dashboardUrl=https://sonarcloud.io/dashboard?id=mayank8805245507_userms
+ceTaskId=AXLVt0Ktosnk-I8EyPKl
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXLVt0Ktosnk-I8EyPKl

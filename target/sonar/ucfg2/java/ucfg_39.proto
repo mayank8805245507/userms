@@ -1,0 +1,40 @@
+
+ecom.infosys.project.user.controller.userController#removebuyer(Ljava/lang/Integer;)Ljava/lang/String;m
+aC:/Users/HP/Desktop/project/src/main/java/com/infosys/project/user/controller/userController.java‡ ‡("1*ê
+
+1m
+aC:/Users/HP/Desktop/project/src/main/java/com/infosys/project/user/controller/userController.javaˆ ˆ(Ô
+Ñ
+m
+aC:/Users/HP/Desktop/project/src/main/java/com/infosys/project/user/controller/userController.javaˆ ˆ(
+%0org.slf4j.Logger"__id*B*@4
+2com.infosys.project.user.controller.userController"
+loggerÍÊ
+m
+aC:/Users/HP/Desktop/project/src/main/java/com/infosys/project/user/controller/userController.javaˆ ˆ(?
+
+%1void"<org.slf4j.Logger#info(Ljava/lang/String;Ljava/lang/Object;)V*
+
+%0org.slf4j.Logger*)'
+%Request for order removal by buyer {}*
+
+buyeridjava.lang.Integer2*info(Ljava/lang/String;Ljava/lang/Object;)÷
+ô
+m
+aC:/Users/HP/Desktop/project/src/main/java/com/infosys/project/user/controller/userController.java‰ ‰(3
+%2-com.infosys.project.user.service.buyerService"__id*H*F4
+2com.infosys.project.user.controller.userController"
+buyerServiceÈÅ
+m
+aC:/Users/HP/Desktop/project/src/main/java/com/infosys/project/user/controller/userController.java‰ ‰(#
+
+%3void"Ocom.infosys.project.user.service.buyerService#removebuyer(Ljava/lang/Integer;)V*5
+3
+%2-com.infosys.project.user.service.buyerService*
+
+buyeridjava.lang.Integer2 removebuyer(Ljava/lang/Integer;)"‰
+m
+aC:/Users/HP/Desktop/project/src/main/java/com/infosys/project/user/controller/userController.javaŠ Š( 
+Deleted successfully:
+buyeridjava.lang.IntegerB64
+2com.infosys.project.user.controller.userController
